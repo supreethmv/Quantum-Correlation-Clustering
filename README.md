@@ -120,4 +120,4 @@ For any inquiries, please reach out to:
 ## Contributors
 
 <!-- [![Supreeth Mysore Venkatesh](_repo_data/supreethmv.jpg)](https://www.supreethmv.com) -->
-[<img src="_repo_data/supreethmv.jpg" alt="Supreeth Mysore Venkatesh" width="60" height="60"/>](https://www.supreethmv.com)
+[<img src="_repo_data/supreethmv.jpg" alt="Supreeth Mysore Venkatesh" width="100" height="100"/>](https://www.supreethmv.com)
